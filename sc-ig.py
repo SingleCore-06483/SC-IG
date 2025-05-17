@@ -45,7 +45,7 @@ class OSINTApp(tk.Tk):
         tk.Button(self.menu_frame, text="Exit", command=self.exit_tool).pack(side=tk.LEFT)
         self.tip_label = tk.Label(
             self.menu_frame,
-            text="Tip: Drag and drop the options you want in the blank. Then double click to change target, and to start right click and click on 'Start Gathering' to run.",
+            text="Tip: Enter your Target Domain or IP Address, and to start click on 'Start Gathering' to run.",
             bg="orange"
         )
         self.tip_label.pack(side=tk.LEFT, padx=20)
