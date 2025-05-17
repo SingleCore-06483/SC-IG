@@ -11,8 +11,6 @@ Here is how you can use it, it is easy to use:
 
 3.then you can save the information by clicking on Export button
 
-![Image of SC IG tool](SC-IG.png)
-
 but this is not the full version of the tool, so that mean the tool dosen't
 giving you the full information, you can buy it from :
 
